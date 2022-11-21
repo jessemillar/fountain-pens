@@ -9,6 +9,8 @@ A place to track my fountain pen collection
 |LAMY vista|vista black|Fine|https://www.gouletpens.com/products/lamy-vista-fountain-pen?variant=11884853002283|
 |Platinum Preppy|Crystal|Fine|https://www.gouletpens.com/products/platinum-preppy-fountain-pen-crystal|
 |TWSBI ECO|Clear|Fine|https://www.twsbi.com/products/twsbi-eco-clear-fountain-pen|
+|Sailor Compass 1911|Transparent Clear|Medium Fine|https://www.gouletpens.com/products/sailor-compass-1911-fountain-pen-transparent-clear|
+|Jinhao 993 Shark|Gray|Extra-Fine|https://www.gouletpens.com/collections/jinhao-993-shark-fountain-pens/products/jinhao-993-shark-fountain-pen-gray|
 
 ## Inks
 
