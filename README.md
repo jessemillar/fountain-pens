@@ -8,9 +8,13 @@ A place to track my fountain pen collection
 |LAMY safari|white/black|Extra-Fine|https://www.gouletpens.com/products/lamy-safari-fountain-pen-white-black|
 |LAMY vista|vista black|Fine|https://www.gouletpens.com/products/lamy-vista-fountain-pen?variant=11884853002283|
 |Platinum Preppy|Crystal|Fine|https://www.gouletpens.com/products/platinum-preppy-fountain-pen-crystal|
+|Platinum Preppy|Crystal|Extra Fine|https://www.gouletpens.com/products/platinum-preppy-fountain-pen-crystal|
 |TWSBI ECO|Clear|Fine|https://www.twsbi.com/products/twsbi-eco-clear-fountain-pen|
 |Sailor Compass 1911|Transparent Clear|Medium Fine|https://www.gouletpens.com/products/sailor-compass-1911-fountain-pen-transparent-clear|
 |Jinhao 993 Shark|Gray|Extra-Fine|https://www.gouletpens.com/collections/jinhao-993-shark-fountain-pens/products/jinhao-993-shark-fountain-pen-gray|
+|Pilot Kakuno|Pokémon Orange|Fine Nib|https://www.jetpens.com/Pilot-Kakuno-Fountain-Pen-Pokemon-Orange-Fine-Nib-Limited-Edition/pd/34363|
+|TWSBI ECO|Transparent Purple|Stub 1.1|https://www.twsbi.com/products/twsbi-eco-transparent-purple-fountain-pen|
+|Kaweco AL Sport|Black|Fine|https://www.jetpens.com/Kaweco-AL-Sport-Fountain-Pen-Black-Fine-Nib/pd/5823|
 
 ## Inks
 
