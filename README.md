@@ -5,8 +5,8 @@ A place to track my fountain pen collection
 
 | Pen | Color | Nib | Link |
 |---|---|---|---|
-|LAMY safari|white/black|Extra-Fine|https://www.gouletpens.com/products/lamy-safari-fountain-pen-white-black|
-|LAMY vista|vista black|Fine|https://www.gouletpens.com/products/lamy-vista-fountain-pen?variant=11884853002283|
+|LAMY safari|White w/ Black Nib|Extra-Fine|https://www.gouletpens.com/products/lamy-safari-fountain-pen-white-black|
+|LAMY vista|Vista Black|Fine|https://www.gouletpens.com/products/lamy-vista-fountain-pen?variant=11884853002283|
 |Platinum Preppy|Crystal|Fine|https://www.gouletpens.com/products/platinum-preppy-fountain-pen-crystal|
 |Platinum Preppy|Crystal|Extra Fine|https://www.gouletpens.com/products/platinum-preppy-fountain-pen-crystal|
 |TWSBI ECO|Clear|Fine|https://www.twsbi.com/products/twsbi-eco-clear-fountain-pen|
